@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HC-05</string>
+    <string name="act_discovering">Discovering new device</string>
+    <string name="btn_send">Send</string>
+    <string name="unknown_device">Unknown Device</string>
+    <string name="toast_no_bt">This device does not support bluetooth.</string>
+    <string name="toast_bt_not_enable">Can not enable bluetooth.</string>
+    <string-array name="sp_brs">
+        <item>\\n</item>
+        <item>None</item>
+        <item>\\r\\n</item>
+    </string-array>
+</resources>

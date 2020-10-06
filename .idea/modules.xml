@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-HC-05-Buletooth-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-HC-05-Buletooth-master.iml" group="Android-HC-05-Buletooth-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-HC-05-Buletooth-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-HC-05-Buletooth-master-app.iml" group="Android-HC-05-Buletooth-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/HC-05Demo.iml" filepath="$PROJECT_DIR$/HC-05Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
