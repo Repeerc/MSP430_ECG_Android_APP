@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-App-HC05-Arduino-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-App-HC05-Arduino-master.iml" group="Android-App-HC05-Arduino-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-App-HC05-Arduino-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-App-HC05-Arduino-master-app.iml" group="Android-App-HC05-Arduino-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/BluetoothHC05.iml" filepath="$PROJECT_DIR$/BluetoothHC05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
